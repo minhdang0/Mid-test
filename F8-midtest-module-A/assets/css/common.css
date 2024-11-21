@@ -1,0 +1,62 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-family: "Poppins", sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+.btn {
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 16px;
+    color: #fff;
+    background-color: #ff7b29;
+    border: none;
+    cursor: pointer;
+}
+.btn-big {
+    width: 191px;
+    height: 66px;
+    padding: 24px 32px;
+    border-radius: 12px;
+    font-size: 18px;
+}
+
+.btn-small {
+    width: 117px;
+    height: 54px;
+    padding: 14px 20px;
+}
+
+.btn-aqua {
+    width: 131px;
+    height: 48px;
+    font-size: 14px;
+    font-weight: 500;
+    background-color: #31c3e0;
+    padding: 16px 20px;
+}
+.pd-135 {
+    padding: 0 13.5rem;
+}
+
+
+.justify-between {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
